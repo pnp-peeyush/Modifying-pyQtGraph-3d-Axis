@@ -9,6 +9,7 @@ Features to be added:
 2. Aligning text labels along the axis
 3. Ticks' and Grids' size/thickness
 4. Axis thickness
+5. Update axis label location from 3-D vector specification to 2-D (padding and location along axis) vector specification.
 .
 .
 .
